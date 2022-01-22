@@ -18,6 +18,11 @@ body {
     font-size: 42px;
 }
 
+.subheader {
+    font-size: 21px;
+    color: gray;
+}
+
 /* LINKS */
 
 .link {
